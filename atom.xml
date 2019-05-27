@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>/Users/billchen/Documents/Gridea/output</id>
+    <id>https://billchen2000.github.io/</id>
     <title>Bill Chen&apos;s Blog</title>
-    <updated>2019-05-27T15:50:17.643Z</updated>
+    <updated>2019-05-27T15:55:36.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="/Users/billchen/Documents/Gridea/output"/>
-    <link rel="self" href="/Users/billchen/Documents/Gridea/output/atom.xml"/>
+    <link rel="alternate" href="https://billchen2000.github.io/"/>
+    <link rel="self" href="https://billchen2000.github.io//atom.xml"/>
     <subtitle>Just Ride.</subtitle>
-    <logo>/Users/billchen/Documents/Gridea/output/images/avatar.png</logo>
-    <icon>/Users/billchen/Documents/Gridea/output/favicon.ico</icon>
+    <logo>https://billchen2000.github.io//images/avatar.png</logo>
+    <icon>https://billchen2000.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Bill Chen&apos;s Blog</rights>
     <entry>
         <title type="html"><![CDATA[在权力的游戏结束时，我在想什么]]></title>
-        <id>/Users/billchen/Documents/Gridea/output/post/zai-quan-li-de-you-xi-jie-shu-shi-wo-zai-xiang-shi-me/index.html</id>
-        <link href="/Users/billchen/Documents/Gridea/output/post/zai-quan-li-de-you-xi-jie-shu-shi-wo-zai-xiang-shi-me/index.html">
+        <id>https://billchen2000.github.io//post/zai-quan-li-de-you-xi-jie-shu-shi-wo-zai-xiang-shi-me</id>
+        <link href="https://billchen2000.github.io//post/zai-quan-li-de-you-xi-jie-shu-shi-wo-zai-xiang-shi-me">
         </link>
         <updated>2019-05-27T12:00:54.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="/Users/billchen/Documents/Gridea/output/post-images/1558971999588.jpg" alt=""></p>
+        <content type="html"><![CDATA[<p><img src="https://billchen2000.github.io//post-images/1558971999588.jpg" alt=""></p>
 <p>2019年的4月，一半的话题被复仇者联盟占去，另一半就是权利的游戏了。前者的结局还算圆满，给漫威的十年画了个潇洒的句号。相比而言，后者的句号则完全像是个玩笑了。</p>
-<!-- more -->![](/Users/billchen/Documents/Gridea/output/post-images/1558958633449.png)
+<!-- more -->![](https://billchen2000.github.io//post-images/1558958633449.png)
 <p>https://billc.io/wp-content/uploads/2019/05/60040E8C-0EF4-4BD3-A82A-1EBD11073F28.jpeg
 From twitter @Chiao_2333
 为了避免剧透，我不在这里讨论具体的剧情——虽然我觉得这样的结尾并没有什么防止剧透的必要。但两位编剧带给观众的最大的感受就是对角色塑造能力的极度缺失，前面六年的铺垫在这所谓最后的几幕被彻底毁掉。曾经句句台词都值得琢磨，每个角色都是一个传奇的艺术品在编剧的笔下全部都成为了为剧情服务的提线木偶。</p>
@@ -40,8 +40,8 @@ S08E06
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>/Users/billchen/Documents/Gridea/output/post/hello-gridea/index.html</id>
-        <link href="/Users/billchen/Documents/Gridea/output/post/hello-gridea/index.html">
+        <id>https://billchen2000.github.io//post/hello-gridea</id>
+        <link href="https://billchen2000.github.io//post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
